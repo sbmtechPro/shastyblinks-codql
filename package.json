@@ -1,0 +1,8 @@
+{
+  "name": "codeql-triage-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local demo of application security finding triage",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test", "demo": "node src/demo.mjs" }
+}
